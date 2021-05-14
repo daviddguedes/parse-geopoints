@@ -1,0 +1,21 @@
+body {
+  background-color: #2a323d;
+}
+
+.p-dropdown-list .p-dropdown-label {
+  padding: 1px !important;
+}
+
+.list-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card-content a {
+  color: burlywood;
+}
+
+.p-divider-horizontal {
+  display: -webkit-inline-box !important;
+}
